@@ -1,6 +1,6 @@
 # CRUD - JS VANILA 
 
-Um sistema simples de cadastro e exclusão de clientes de uma petshop.
+Um sistema simples de cadastro, exclusão, edição de clientes de uma petshop.
 
 Neste sistema foi colocado em prática
 Requisicoes Ajax Com Fetch Api
