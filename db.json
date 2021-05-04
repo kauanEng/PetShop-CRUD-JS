@@ -4,6 +4,20 @@
       "nome": "felipe",
       "email": "felipe@alura.com",
       "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "nome": "Kauan",
+      "email": "kauan@kauan.com",
+      "id": 5
     }
   ]
 }
