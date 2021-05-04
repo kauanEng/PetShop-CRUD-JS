@@ -1,33 +1,9 @@
 {
   "profile": [
     {
-      "nome": "felipe",
+      "nome": "kauan",
       "email": "felipe@alura.com",
       "id": 1
-    },
-    {
-      "id": 2
-    },
-    {
-      "id": 3
-    },
-    {
-      "id": 4
-    },
-    {
-      "nome": "Kauan",
-      "email": "kauan@kauan.com",
-      "id": 5
-    },
-    {
-      "nome": "kauanteste",
-      "email": "laua@luan",
-      "id": 6
-    },
-    {
-      "nome": "Kaun",
-      "email": "kauan@akdjad",
-      "id": 7
     }
   ]
 }
