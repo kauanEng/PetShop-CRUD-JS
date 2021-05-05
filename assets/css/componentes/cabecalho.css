@@ -8,6 +8,8 @@
     align-items: center;
     height: 4.75rem;
     margin-bottom: 2rem;
+    
+   
 }
 
 .cabecalho__logo {
@@ -20,4 +22,10 @@
 
 .cabecalho__link {
     margin-left: 2rem;
+
+}
+
+li a {
+    text-decoration: none !important;
+    
 }

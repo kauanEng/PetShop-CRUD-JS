@@ -1,12 +1,7 @@
-# CRUD - JS VANILA 
+abrir a pasta admin no vscode e 
+rodar o json server: 
+```js
+npx json-server --watch db.json
+```
 
-Um sistema simples de cadastro, exclusão, edição de clientes de uma petshop.
-
-Neste sistema foi colocado em prática
-Requisicoes Ajax Com Fetch Api
-Estrutura MVC
-
-Funcionalidades sobre JSON.
-JSON.PARSE 
-JSON.STRINGIFY 
-
+Rodar: npx browser-sync start --server --file . --host --port 5000 --startPath ./telas/lista_cliente.html

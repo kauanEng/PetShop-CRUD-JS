@@ -1,0 +1,17 @@
+.carousel-item {
+    height: 100vh;
+    border: 1px solid blue;
+    
+    
+}
+
+.carousel-item img {
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+}
+
+body {
+    background-color: antiquewhite;
+}

@@ -1,14 +1,9 @@
 {
   "profile": [
     {
-      "nome": "kauan",
-      "email": "felipe@alura.com",
+      "nome": "Pamela Borges",
+      "email": "pamela@pamela.com",
       "id": 1
-    },
-    {
-      "nome": "KAUANA",
-      "email": "KAUAN@KAUANAADASDA",
-      "id": 2
     }
   ]
 }

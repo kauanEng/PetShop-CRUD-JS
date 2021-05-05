@@ -1,0 +1,44 @@
+.container-cards {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 35px;
+    
+}
+    
+.card {
+    border-radius: 3%;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.card:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.09);
+}
+
+.card {
+    margin: 10px;
+   
+}
+
+.card-img-top {
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.texto-titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    padding-top: 30px;
+}
+
+.card-text {
+    padding-bottom: 10px;
+}

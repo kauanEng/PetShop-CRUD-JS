@@ -11,13 +11,11 @@
     font-size: var(--fonte-tamanho-botao);
     align-self: center;
     text-align: center;
-    
 }
 
 .botao-simples {
     border: none;
     background-color: unset;
-    cursor: pointer;
 }
 
 .botao-simples--adicionar {

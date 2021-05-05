@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+}
+
+.container-texto {
+    display: flex;
+    justify-content: left;
+    align-items:center;
+    width: 500px;
+    padding: 50px;
+    padding-top: 5px;
+    
+}
+
+.texto-titulo {
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+
+.texto {
+    color: black;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 30px;
+   
+}
+
+
+
+.papelParede{
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../img/5.jpg);
+}
